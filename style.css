@@ -20,3 +20,6 @@ h1{
     cursor: pointer;
     color: black;
 }
+html{
+    scroll-behavior: smooth;
+}
